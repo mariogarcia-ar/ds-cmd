@@ -8,6 +8,7 @@ ROOT_DIR="/home/ohroot/Desktop/projects/DocFlow-AI/ds-cmd/"
 DATA_DIR=$ROOT_DIR/data
 TMP_DIR=$ROOT_DIR/tmp
 SCRIPTS_DIR=$ROOT_DIR/scripts
+DSUTILS_DIR=$ROOT_DIR/dsutils
 
 # ------------------------------------------------------------------
 # colors

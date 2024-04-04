@@ -3,7 +3,7 @@
 - https://github.com/datasciencetoolbox/datasciencetoolbox 
 - https://blog.appsecco.com/docker-container-for-data-science-toolbox-8b85404946db
 
-
+- https://csvkit.readthedocs.io/en/latest/index.html
 
 Github
 - https://github.com/appsecco/docker-data-science-toolbox
@@ -44,3 +44,8 @@ WORKDIR /data
 
 # Tools
 - https://explainshell.com/ 
+
+## csvkit
+```bash
+sudo apt install csvkit
+```
